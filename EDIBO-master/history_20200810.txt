@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  for i in $(seq 1 2); do echo  "$i $((i*i))"; done > d.dat
+    4  cat d.dat
+    5  ls
+    6  hexdump d.dat
+    7  for i in $( ls ); do echo $i; done > b.dat
+    8  ls
+    9  time for i in $(seq 1 1001); do echo -e "$i \t$((i*i))"; done > a.dat
+   10  ls
+   11  head -3 a.dat > c.dat
+   12  ls
+   13  PS1=""
+   14  pwd
+   15  hexdump d.dat
+   16  for i in $(seq 1 2); do echo  "$i $((i*i))"; done
+   17  for i in 1; do echo  "$i $((i*i))"; done
+   18  for i in 1; do echo  "$i $((i*i))"; done | hexdump
+   19  for i in 1; do echo  "$i $((i*i))"; done
+   20  echo 1 |hexdump
+   21  echo 2 |hexdump
+   22  echo 9 |hexdump
+   23  echo 10 |hexdump
+   24  echo 101 |hexdump
+   25  echo A |hexdump
+   26  echo a |hexdump
+   27  ASCII
+   28  git
+   29  git --version
+   30  CAL
+   31  date
+   32  history
+   33  history > history10.txt
