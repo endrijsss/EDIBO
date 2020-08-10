@@ -54,7 +54,7 @@
    54  nano history_20200807a.txt 
    55  pwd
    56  ls -la
-   57  git config --global user.email maksim.garipov@gmail.com
+   57  git config --global user.email endrijsss@gmail.com
    58  git add .
    59  git commit -m "20200807_13_30_first_upload_from_cli"
    60  git push origin master
