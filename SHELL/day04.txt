@@ -1,0 +1,17 @@
+Programmēšanas "paņēmieni" vai svarīgākās konstrukcijas:
+1.a. mainīgie - tiek lietoti identifikātori (a, b, ab, a_b - drīkst), ("a b" nedrīkst)
+1.b. konstantes -"-
+2.a. operācijas: =, +, -, *, /, %, ...
+(parasti operācioja notiek ar diviem operandiem)
+3.a. nosacījuma operators - if (var būt ar else, varbūt bez elif, ...)
+koda izpildes sazarošanai
+3.b.cikla operators - for, while, do ... while 
+koda daļas izpildīšanas atkārtošanasi
+(ekvivalents - daudzas manuāli blakus sarakstītas līdzīgas rindas)
+4.a. funkcija - ar argumentiem/bez argumentiem un ar atgriežamiem lielumiem/bez atrgriežamiem lielumiem
+5 darbs ar nosacijumu operatoru - https://www.tutorialspoint.com/unix/unix-decision-making.htm
+6 darbs are cikliem - https://www.tutorialspoint.com/unix/unix-shell-loops.htm
+
+uzrakstit skriptu kurs lietotaju ievadito skaitli parveido no dec uz bin
+
+https://unix.stackexchange.com/questions/129072/whats-the-difference-between-and/129077

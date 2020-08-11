@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  $echo $$
+    4  echo $0
+    5  whereis bash
+    6  echo $?
+    7  lol
+    8  echo $?
+    9  ps aux | grep
+   10  $$
+   11  ps -aux | grep
+   12  ps -aux | grep 4052
+   13  test.sh
+   14  ./test.sh
+   15  nano test.sh
+   16  ./test.sh
+   17  $ echo "$((2#101010101))"
+   18  341
+   19  $ echo "$((2#101010101))"
+   20  341
+   21  $ printf '%x\n' "$((2#101010101))"
+   22  155
+   23  $> echo 'ibase=2;obase=A;11110001011010'|bc
+   24  15450
+   25  echo "obase=2;$ip1" | bc
+   26  history
+   27  history > h2.txt

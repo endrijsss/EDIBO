@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone https://github.com/endrijsss
+    5  git clone https://github.com/endrijsss/EDIBO
+    6  ls
+    7  ls -lt
+    8  mkdir SHELL
+    9  cd SHELL
+   10  pwd
+   11  rmdir SHELL
+   12  cd EDIBO
+   13  PWD
+   14  pwd
+   15  ls
+   16  cd EDIBO
+   17  cd ..
+   18  cd SHELL
+   19  ls
+   20  nano day04.txt
+   21  cd ..
+   22  mv SHELL EDIBO
+   23  cd EDIBO
+   24  /pwd
+   25  /ls
+   26  ls
+   27  pwd
+   28  cd SHELL
+   29  nano day04.txt 
+   30  nano day04.txt
+   31  historuy
+   32  history
+   33  nano day04.txt
+   34  ls
+   35  history
+   36  history > history.txt

@@ -1,0 +1,25 @@
+Programmēšanas "paņēmieni" vai svarīgākās konstrukcijas:
+1.a. mainīgie - tiek lietoti identifikātori (a, b, ab, a_b - drīkst), ("a b" nedrīkst)
+1.b. konstantes -"-
+2.a. operācijas: =, +, -, *, /, %, ...
+(parasti operācioja notiek ar diviem operandiem)
+3.a. nosacījuma operators - if (var būt ar else, varbūt bez elif, ...)
+koda izpildes sazarošanai
+3.b.cikla operators - for, while, do ... while 
+koda daļas izpildīšanas atkārtošanasi
+(ekvivalents - daudzas manuāli blakus sarakstītas līdzīgas rindas)
+4.a. funkcija - ar argumentiem/bez argumentiem un ar atgriežamiem lielumiem/bez atrgriežamiem lielumiem
+
+Izmēģināšim dažus no šiem paņēmieniem SHELL'ā
+Izmantosim piemērus no tutorialpoint.com
+
+1. darbs ar mainīgajiem - https://www.tutorialspoint.com/unix/unix-using-variables.htm
+2. speciāli mainīgie - https://www.tutorialspoint.com/unix/unix-using-variables.htm
+3. darbs ar mainīgo masīvo -https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+4. darbs ar operācijām -  https://www.tutorialspoint.com/unix/unix-special-variables.htm
+5. darbs ar nosacijumu operatoru - 
+6. darbs ar cikliem
+
+uzrakstit skriptu kas parveido dec uz bin
+
+tutorial point shell variables
