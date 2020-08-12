@@ -2,7 +2,7 @@ Programmēšanas "paņēmieni" vai svarīgākās konstrukcijas:
 1.a. mainīgie - tiek lietoti identifikātori (a, b, ab, a_b - drīkst), ("a b" nedrīkst)
 1.b. konstantes -"-
 2.a. operācijas: =, +, -, *, /, %, ...
-(parasti operācioja notiek ar diviem operandiem)
+(parasti operācija notiek ar diviem operandiem)
 3.a. nosacījuma operators - if (var būt ar else, varbūt bez elif, ...)
 koda izpildes sazarošanai
 3.b.cikla operators - for, while, do ... while 
