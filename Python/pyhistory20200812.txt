@@ -1,0 +1,64 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  $'/a'
+    4  $/a
+    5  $\a
+    6  $ \a
+    7  nano bell.sh
+    8  chmod 744 bell.sh 
+    9  ./bell.sh 
+   10  rm bell.sh 
+   11  ls
+   12  nano test.sh
+   13  chmod 744 test.sh 
+   14  ./test.sh 
+   15* 
+   16  ./test.sh
+   17  nano test.sh
+   18  ls
+   19  rm test.sh 
+   20  cd ..
+   21  pwdf
+   22  pwd
+   23  mkdir Python
+   24  cd Python/
+   25  nano README.md
+   26  phyton3
+   27  phyton
+   28  python
+   29  iphyton
+   30  ipython
+   31  python
+   32  ipython
+   33  nano first_python_script.py
+   34  ls
+   35  chmod 744 first_python_script.py 
+   36  python first_python_script.py 
+   37  nano first_python_script.py 
+   38  python first_python_script.py 
+   39  nano first_python_script.py 
+   40  python first_python_script.py 
+   41  nano first_python_script.py 
+   42  python first_python_script.py 
+   43  nano first_python_script.py 
+   44  python first_python_script.py 
+   45  cp first_python_script.py second_python_script_like_executable.py 
+   46  ls -lt
+   47  chmod 700 first_python_script.py 
+   48  ls -lt
+   49  whereis python
+   50  nano second_python_script_like_executable.py 
+   51  ls -lt
+   52  ./second_python_script_like_executable.py 
+   53  nano second_python_script_like_executable.py 
+   54  ./second_python_script_like_executable.py 
+   55  idle
+   56  idle &
+   57  idle
+   58  ls -lt
+   59  idle
+   60  ls -lt
+   61  chmod 744 first_python_script.py 
+   62  chmod 744 diary\ _20200812.py 
+   63  history
+   64  history > pyhistory20200812.txt

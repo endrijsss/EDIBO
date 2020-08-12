@@ -1,0 +1,25 @@
+In [2]: if (11 == 11 ): print("YES")
+YES
+
+In [3]: if (11 == 12 ): print("YES")
+
+In [4]: if (11 == 11 ):
+   ...:     print("Vienādi")
+   ...:     
+Vienādi
+
+In [5]: if (11 == 11 ):
+   ...:     print("Vienādi")
+   ...: else:
+   ...:     print("Nevienādi")
+   ...:     
+Vienādi
+
+In [6]: if (13 == 11 ):
+   ...:     print("Vienādi")
+   ...: else:
+   ...:     print("Nevienādi")
+   ...:     
+Nevienādi
+
+

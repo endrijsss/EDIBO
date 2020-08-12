@@ -1,0 +1,6 @@
+#! /usr/bin/Python3.6
+
+a = int(input("Ievadiet Skaitli: "))
+a = 2**a
+print(a)
+

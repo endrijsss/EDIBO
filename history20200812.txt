@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd EDIBO
+    4  ls
+    5  cd SHELL
+    6  ls
+    7  ./test.sh
+    8  ./test.sh 896
+    9  ./test.sh 896 234
+   10  nano day04.txt
+   11  ls
+   12  nano day04.txt.save
+   13  rm day04.txt.save
+   14  ls
+   15  nano echo
+   16  ls
+   17  mano h2.txt
+   18  nano h2.txt
+   19  ls
+   20  nano test.sh
+   21  ls
+   22  cd ..
+   23  ls
+   24  cd ..
+   25  ls
+   26  cd EDIBO
+   27  LS
+   28  ls
+   29  rm a.c
+   30  rm a.out
+   31  ls
+   32  rm history_20200807.txt
+   33  ls
+   34  rm history_20200807
+   35  ls
+   36  rm history_20200807a.txt
+   37  rm history_20200807b.txt
+   38  rm history_20200807c.txt 
+   39  ls
+   40  rm mans_pirmais_skripts.sh 
+   41  rm README.md 
+   42  ls
+   43  ./git-upload.sh https://github.com/endrijsss/EDIBO
+   44  ls
+   45  cd  hometest
+   46  ls
+   47  nano dec_to_bin.sh 
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd SHELL
+   52  ls
+   53  nano day04.txt 
+   54  cd ..
+   55  history > history20200812.txt

@@ -1,0 +1,207 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd EDIBO
+    4  ls
+    5  cd SHELL
+    6  ls
+    7  ./test.sh
+    8  ./test.sh 896
+    9  ./test.sh 896 234
+   10  nano day04.txt
+   11  ls
+   12  nano day04.txt.save
+   13  rm day04.txt.save
+   14  ls
+   15  nano echo
+   16  ls
+   17  mano h2.txt
+   18  nano h2.txt
+   19  ls
+   20  nano test.sh
+   21  ls
+   22  cd ..
+   23  ls
+   24  cd ..
+   25  ls
+   26  cd EDIBO
+   27  LS
+   28  ls
+   29  rm a.c
+   30  rm a.out
+   31  ls
+   32  rm history_20200807.txt
+   33  ls
+   34  rm history_20200807
+   35  ls
+   36  rm history_20200807a.txt
+   37  rm history_20200807b.txt
+   38  rm history_20200807c.txt 
+   39  ls
+   40  rm mans_pirmais_skripts.sh 
+   41  rm README.md 
+   42  ls
+   43  ./git-upload.sh https://github.com/endrijsss/EDIBO
+   44  ls
+   45  cd  hometest
+   46  ls
+   47  nano dec_to_bin.sh 
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd SHELL
+   52  ls
+   53  nano day04.txt 
+   54  cd ..
+   55  history > history20200812.txt
+   56  $'/a'
+   57  $/a
+   58  $\a
+   59  $ \a
+   60  nano bell.sh
+   61  chmod 744 bell.sh 
+   62  ./bell.sh 
+   63  rm bell.sh 
+   64  ls
+   65  nano test.sh
+   66  chmod 744 test.sh 
+   67  ./test.sh 
+   68  ./test.sh
+   69  nano test.sh
+   70  ls
+   71  rm test.sh 
+   72  cd ..
+   73  pwdf
+   74  pwd
+   75  mkdir Python
+   76  cd Python/
+   77  nano README.md
+   78  phyton3
+   79  phyton
+   80  python
+   81  iphyton
+   82  ipython
+   83  python
+   84  ipython
+   85  nano first_python_script.py
+   86  ls
+   87  chmod 744 first_python_script.py 
+   88  python first_python_script.py 
+   89  nano first_python_script.py 
+   90  python first_python_script.py 
+   91  nano first_python_script.py 
+   92  python first_python_script.py 
+   93  nano first_python_script.py 
+   94  python first_python_script.py 
+   95  nano first_python_script.py 
+   96  python first_python_script.py 
+   97  cp first_python_script.py second_python_script_like_executable.py 
+   98  ls -lt
+   99  chmod 700 first_python_script.py 
+  100  ls -lt
+  101  whereis python
+  102  nano second_python_script_like_executable.py 
+  103  ls -lt
+  104  ./second_python_script_like_executable.py 
+  105  nano second_python_script_like_executable.py 
+  106  ./second_python_script_like_executable.py 
+  107  idle
+  108  idle &
+  109  idle
+  110  ls -lt
+  111  idle
+  112  ls -lt
+  113  chmod 744 first_python_script.py 
+  114  chmod 744 diary\ _20200812.py 
+  115  history
+  116  history > pyhistory20200812.txt
+  117  ls
+  118  nano pyhistory20200812.txt 
+  119  pwd
+  120  nano Fibonacci.sh
+  121  ./Fibonacci.sh
+  122  chmod 744 Fibonacci.sh 
+  123  ./Fibonacci.sh 
+  124  ls
+  125  man bash
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd Python/
+  130  ls
+  131  nano README.md 
+  132  history
+  133  cd ..
+  134  history
+  135  ls
+  136  cd EDIBO
+  137  LS
+  138  ls
+  139  cp git-upload.sh /home/EDIBO/Fibonacci
+  140  ls
+  141  cd ..
+  142  ls
+  143  git-upload.sh https://github.com/endrijsss/EDIBO.git
+  144  echo "# Fibonacci" >> README.md
+  145  cd Fibonacci/
+  146  ls
+  147  cd ..
+  148  ls
+  149  cd Fibonacci/
+  150  git init
+  151  git add README.md
+  152  git commit -m "first commit"
+  153  git add .
+  154  git commit -m "first comit"
+  155  git remote add origin https://github.com/endrijsss/Fibonacci.git
+  156  ll
+  157  cd .git/
+  158  ls
+  159  cat config
+  160  cd ..
+  161  ls
+  162  git push -u origin master
+  163  cd ..
+  164  ls
+  165  mv Python EDIBO
+  166  ls
+  167  cd EDIBO
+  168  ls
+  169  cd Python
+  170  ipython
+  171  phythoeeey
+  172  phyy
+  173  clear
+  174  da
+  175  a
+  176  a?
+  177  ipython
+  178  time 2**10000
+  179  2**100
+  180  ipython
+  181  nano howlong.py 
+  182  ./howlong.py 
+  183  cat howlong.py 
+  184  nano howlong.py 
+  185  cat howlong.py 
+  186  ./howlong.py 
+  187  nano howlong.py 
+  188  time ./howlong.py 
+  189  nano howlong.py 
+  190  ./howlong.py 
+  191  nano howlong.py 
+  192  ./howlong.py 
+  193  nano howlong.py 
+  194  time ./howlong.py 
+  195  nano howlong.py 
+  196  time howlong.py
+  197  ./howlong.py > howlong.dat
+  198  ls -l
+  199  ls -lh howlong.dat
+  200  ls
+  201  vim howlong.py
+  202  ipython
+  203  ls
+  204  cd ..
+  205  ls
+  206  history
+  207  history > mhbash0812.dat

@@ -1,0 +1,70 @@
+ 2/1: vars()
+ 2/2: a = 10
+ 2/3: a
+ 2/4: type(a)
+ 2/5: dir(a)
+ 2/6: a.real
+ 2/7: print(a.__doc__)
+ 3/1: pwd
+ 3/2: ls
+ 3/3: clear
+ 3/4: ls -lt
+ 3/5: cd
+ 3/6: ls
+ 3/7: cd EDIBO/EDIBO/Python
+ 3/8: pwd
+ 3/9: ipython --version
+3/10: cat second_python_script_like_executable.py
+3/11: less
+3/12: less OSError
+3/13: cond
+3/14: cond second_python_script_like_executable.py
+3/15: cat second_python_script_like_executable.py
+3/16: print less
+3/17: less print
+3/18: cat  second_python_script_like_executable.py
+3/19: ls
+3/20: less second_python_script_like_executable.py
+3/21: a = 11
+3/22: b = 5
+3/23: a+b
+3/24: a-b
+3/25: a*b
+3/26: a/b
+3/27: phython
+ 4/1: 20//6
+ 4/2: 2**10
+ 4/3: 2**100
+ 4/4: 2*10000000000
+ 5/1: 2**20
+ 5/2: 2**21
+ 5/3: ls
+ 5/4: cp first_python_script.py howlong.py
+ 5/5: nano howlong.py
+ 5/6: ls
+ 6/1: time 2**20
+ 6/2: python --version
+   1: vim 001.py
+   2: if (11 == 11 ): print("YES")
+   3: if (11 == 12 ): print("YES")
+   4:
+if (11 == 11 ):
+    print("Vienādi")
+   5:
+if (11 == 11 ):
+    print("Vienādi")
+else:
+    print("Nevienādi")
+   6:
+if (13 == 11 ):
+    print("Vienādi")
+else:
+    print("Nevienādi")
+   7:
+if (13 == 11 ):
+    print("Vienādi")
+else:
+    print("Nevienādi")
+   8: %save mh ~
+   9: %save aaa
+  10: %history -g -f myhistory.dat
