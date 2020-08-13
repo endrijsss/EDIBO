@@ -1,0 +1,59 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/endrijsss/EDIBO.git
+    4  pwd
+    5  ls
+    6  cd EDIBO
+    7  ls
+    8  cd Python
+    9  ls
+   10  nano dump.txt
+   11  ipython
+   12  idle
+   13  ls -lt
+   14  exit
+   15  ls
+   16  cd EDIBO
+   17  cd Python
+   18  ls
+   19  nano 33.py
+   20  nano howlong.py
+   21  ls
+   22  nano second_python_script_like_executable.py 
+   23  nano milzigs_skaitlis.py
+   24  ls
+   25  nano pitnotpit.dat 
+   26  ls
+   27  chmod 744 milzigs_skaitlis.py 
+   28  ./milzigs_skaitlis.py 
+   29  nano milzigs_skaitlis.py 
+   30  ./milzigs_skaitlis.py 
+   31  nano milzigs_skaitlis.py 
+   32  ./milzigs_skaitlis.py 
+   33  nan9o milzigs_skaitlis.py 
+   34  nano milzigs_skaitlis.py 
+   35  ./milzigs_skaitlis.py 
+   36  nano milzigs_skaitlis.py 
+   37  ./milzigs_skaitlis.py 
+   38  nano milzigs_skaitlis.py 
+   39  ./milzigs_skaitlis.py 
+   40  nano m
+   41  nano milzigs_skaitlis.py 
+   42  ./milzigs_skaitlis.py 
+   43  nano milzigs_skaitlis.py 
+   44  ./milzigs_skaitlis.py 
+   45  nano milzigs_skaitlis.py 
+   46  ./milzigs_skaitlis.py 
+   47  nano milzigs_skaitlis.py 
+   48  ./milzigs_skaitlis.py 
+   49  nano milzigs_skaitlis.py 
+   50  ./milzigs_skaitlis.py 
+   51  nano milzigs_skaitlis.py 
+   52  ./milzigs_skaitlis.py 
+   53  nano milzigs_skaitlis.py 
+   54  ./milzigs_skaitlis.py 
+   55  nano milzigs_skaitlis.py 
+   56  history
+   57  ./milzigs_skaitlis.py 
+   58  ls
+   59  history > pyhistory20200813a.txt
