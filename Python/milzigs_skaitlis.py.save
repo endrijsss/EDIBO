@@ -1,0 +1,13 @@
+#! /usr/bin/Python3.6
+
+print("Ievadiet skaitli")
+# a=2**200000
+
+a=int(input)
+#if (a == int): print("a**100")
+if (a == 5):
+ print("a**100")
+print("Aprēķins ir gatavs")
+
+#print ("Ievadāmai vērtibai jābūt skaitlim")
+#b=a**100
