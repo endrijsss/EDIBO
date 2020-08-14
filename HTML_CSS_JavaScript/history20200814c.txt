@@ -1,0 +1,29 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  ./dec2bin.py
+    5  chmod 744 dec2bin.py 
+    6  ./dec2bin.py 
+    7  ls
+    8  ls -lt
+    9  cd ..
+   10  ls
+   11  history
+   12  nano git-upload.sh 
+   13  ls
+   14  ./git-upload.sh 
+   15  ls -lt
+   16  ls
+   17  mkdir HTML_CSS_
+   18  ls
+   19  mv HTML_CSS_ HTML_CSS_JavaScript
+   20  ls
+   21  cd HTML_CSS_JavaScript/
+   22  ls
+   23  pwd
+   24  nano index.html
+   25  nano index.html 
+   26  code .
+   27  nano styles.css
+   28  history
+   29  history > history20200814c.txt
