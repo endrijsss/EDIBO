@@ -12,3 +12,4 @@
 [Quickstart: Use Visual Studio Code to connect and query](https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode)  
 [Install sqlcmd and bcp the SQL Server command-line tools on Linux](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view=sql-server-ver15)  
 [sqlcmd Utility](https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility?view=sql-server-ver15)  
+[MySQL tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/sql/mysql_beginner.html)
