@@ -1,0 +1,18 @@
+USE db23;
+
+CREATE TABLE IF NOT EXISTS Statistic (
+          PersonID    INT UNSIGNED   NOT NULL AUTO_INCREMENT,
+          FirstName   VARCHAR(30)    NOT NULL,
+          LastName	  VARCHAR(30)	 NOT NULL,
+          Gender      ENUM ('M','F') NOT NULL,    
+          Personal_No  VARCHAR(12)           NOT NULL,
+          PRIMARY KEY
+       );
+       
+CREATE TABLE IF NOT EXISTS Address (
+		  City VARCHAR(30) NOT NULL,
+          Street VARCHAR(30) NOT NULL,
+          Address VARCHAR(30) NOT NULL,
+          Flat VARCHAR(10) NOT NULL,
+          Region VARCHAR(30) NOT NULL,
+          FOREIGN KEY(
