@@ -42,3 +42,6 @@ npm install -g @angular/cli
 
 # Create new application
 ng new MyApp
+
+# Add angular material
+ng add @angular/material
